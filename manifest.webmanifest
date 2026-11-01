@@ -1,0 +1,17 @@
+{
+  "name": "ACCT689 Exam Prep Quiz",
+  "short_name": "ACCT689 Quiz",
+  "description": "Practice questions and mock exam for the ACCT689 final.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#143642",
+  "theme_color": "#143642",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
